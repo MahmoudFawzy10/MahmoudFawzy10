@@ -34,28 +34,43 @@ graph TD;
   E --> F[Frontend Frameworks 🌟];
   F --> G[Backend Development ⚡];
   G --> H[Full Stack Mastery 🏆];
+```
 
-# 🎯 Current Goals:
-📚 Master JavaScript fundamentals and DOM manipulation.
+---
 
-🔍 Explore front-end frameworks like React.
+### 🎯 **Current Goals:**
 
-🗂️ Learn database management (MySQL, Oracle, SQLite).
+- 📚 Master JavaScript fundamentals and DOM manipulation.
+- 🔍 Explore front-end frameworks like React.
+- 🗂️ Learn database management (MySQL, Oracle, SQLite).
+- 🚀 Build real-world projects to enhance problem-solving skills.
+- 🌟 Complete Bootstrap and move to advanced CSS frameworks like Tailwind.
 
-🚀 Build real-world projects to enhance problem-solving skills.
+---
 
-🌟 Complete Bootstrap and move to advanced CSS frameworks like Tailwind.
+### 🌟 **Connect With Me:**
 
-# 🌟 Connect With Me:
-<div align="center"> <a href="https://www.linkedin.com" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /> </a> </div>
+<div align="center"> 
+  <a href="https://www.linkedin.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> 
+  </a> 
+  <a href="mailto:your.email@example.com"> 
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /> 
+  </a> 
+</div>
 
-# 💡 "Code, Learn, Repeat! The journey never ends." 🚀
+---
 
-# 🚧 Latest Updates:
-🎯 JavaScript Fundamentals: Started learning JavaScript, currently at 25%, focusing on basics like variables, functions, and loops.
+### 💡 *"Code, Learn, Repeat! The journey never ends."* 🚀
 
-🌟 Bootstrap Progress: Reached 50% proficiency in Bootstrap, focusing on responsive design and utility classes.
+---
 
-🚀 Next Steps: Dive deeper into JavaScript, explore DOM manipulation, and start building small interactive projects.
+### 🚧 **Latest Updates:**
 
-# Keep coding and learning! 🚀
+- 🎯 **JavaScript Fundamentals:** Started learning JavaScript, currently at 25%, focusing on basics like variables, functions, and loops.
+- 🌟 **Bootstrap Progress:** Reached 50% proficiency in Bootstrap, focusing on responsive design and utility classes.
+- 🚀 **Next Steps:** Dive deeper into JavaScript, explore DOM manipulation, and start building small interactive projects.
+
+---
+
+### Keep coding and learning! 🚀
