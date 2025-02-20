@@ -1,4 +1,4 @@
-🎯 Current Goals:
+# 🎯 Current Goals:
 📚 Master JavaScript fundamentals and DOM manipulation.
 
 🔍 Explore front-end frameworks like React.
