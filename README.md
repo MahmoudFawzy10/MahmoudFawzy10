@@ -17,7 +17,7 @@
   [![HTML5](https://img.shields.io/badge/HTML5-100%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![CSS3](https://img.shields.io/badge/CSS3-100%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![Bootstrap](https://img.shields.io/badge/Bootstrap-50%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-100%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 </div>
 
@@ -28,7 +28,7 @@
 ```mermaid
 graph TD;
   A[HTML5 ✅] --> B[CSS3 ✅];
-  B --> C[Bootstrap 🌟 50%];
+  B --> C[Bootstrap ✅ 100%];
   C --> D[JavaScript 🚀 25%];
   D --> E[DOM Manipulation 🎯];
   E --> F[Frontend Frameworks 🌟];
@@ -42,21 +42,21 @@ graph TD;
 
 - 📚 Master JavaScript fundamentals and DOM manipulation.
 - 🔍 Explore front-end frameworks like React.
-- 🗂️ Learn database management (MySQL, Oracle, SQLite).
+- 🛂 Learn database management (MySQL, Oracle, SQLite).
 - 🚀 Build real-world projects to enhance problem-solving skills.
-- 🌟 Complete Bootstrap and move to advanced CSS frameworks like Tailwind.
+- 🌟 Move to advanced CSS frameworks like Tailwind.
 
 ---
 
-### 🌟 **Connect With Me:**
+### 🏧 **Connect With Me:**
 
-<div align="center"> 
-  <a href="https://www.linkedin.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> 
-  </a> 
-  <a href="mailto:your.email@example.com"> 
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /> 
-  </a> 
+<div align="center">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </div>
 
 ---
@@ -65,12 +65,13 @@ graph TD;
 
 ---
 
-### 🚧 **Latest Updates:**
+### 🛠 **Latest Updates:**
 
 - 🎯 **JavaScript Fundamentals:** Started learning JavaScript, currently at 25%, focusing on basics like variables, functions, and loops.
-- 🌟 **Bootstrap Progress:** Reached 50% proficiency in Bootstrap, focusing on responsive design and utility classes.
+- 🌟 **Bootstrap Progress:** Achieved 100% proficiency in Bootstrap, now comfortable with responsive design, utility classes, and components.
 - 🚀 **Next Steps:** Dive deeper into JavaScript, explore DOM manipulation, and start building small interactive projects.
 
 ---
 
 ### Keep coding and learning! 🚀
+
