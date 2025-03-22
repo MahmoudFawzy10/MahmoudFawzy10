@@ -18,6 +18,7 @@
   [![CSS3](https://img.shields.io/badge/CSS3-100%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-100%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-25%25-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 </div>
 
@@ -31,9 +32,10 @@ graph TD;
   B --> C[Bootstrap ✅ 100%];
   C --> D[JavaScript 🚀 25%];
   D --> E[DOM Manipulation 🎯];
-  E --> F[Frontend Frameworks 🌟];
-  F --> G[Backend Development ⚡];
-  G --> H[Full Stack Mastery 🏆];
+  E --> F[Tailwind CSS 🚀 25%];
+  F --> G[Frontend Frameworks 🌟];
+  G --> H[Backend Development ⚡];
+  H --> I[Full Stack Mastery 🏆];
 ```
 
 ---
@@ -41,10 +43,10 @@ graph TD;
 ### 🎯 **Current Goals:**
 
 - 📚 Master JavaScript fundamentals and DOM manipulation.
+- 🌟 Advance in Tailwind CSS for sleek responsive designs.
 - 🔍 Explore front-end frameworks like React.
 - 🛂 Learn database management (MySQL, Oracle, SQLite).
 - 🚀 Build real-world projects to enhance problem-solving skills.
-- 🌟 Move to advanced CSS frameworks like Tailwind.
 
 ---
 
@@ -69,9 +71,9 @@ graph TD;
 
 - 🎯 **JavaScript Fundamentals:** Started learning JavaScript, currently at 25%, focusing on basics like variables, functions, and loops.
 - 🌟 **Bootstrap Progress:** Achieved 100% proficiency in Bootstrap, now comfortable with responsive design, utility classes, and components.
-- 🚀 **Next Steps:** Dive deeper into JavaScript, explore DOM manipulation, and start building small interactive projects.
+- 🎨 **Tailwind CSS:** Started with 25%, learning utility-first classes and modern responsive techniques.
+- 🚀 **Next Steps:** Dive deeper into JavaScript, DOM manipulation, Tailwind CSS, and start building interactive projects.
 
 ---
 
 ### Keep coding and learning! 🚀
-
