@@ -30,9 +30,9 @@
 graph TD;
   A[HTML5 ✅] --> B[CSS3 ✅];
   B --> C[Bootstrap ✅ 100%];
-  C --> D[JavaScript 🚀 25%];
-  D --> E[DOM Manipulation 🎯];
-  E --> F[Tailwind CSS 🚀 25%];
+  C --> D[Tailwind CSS 🚀 25%];
+  D --> E[JavaScript 🚀 25%];
+  E --> F[DOM Manipulation 🎯];
   F --> G[Frontend Frameworks 🌟];
   G --> H[Backend Development ⚡];
   H --> I[Full Stack Mastery 🏆];
